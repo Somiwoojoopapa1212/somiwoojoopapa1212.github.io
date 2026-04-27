@@ -18,5 +18,15 @@
         "22:DB:C8:59:D7:0C:2B:0A:63:B1:8C:CD:4D:12:33:35:E9:85:98:DB:5D:06:28:6A:85:EA:6D:E0:30:FA:72:9F"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.somiwoojoopapa.whiskynotes",
+      "sha256_cert_fingerprints": [
+        "D4:D3:C9:5A:6F:93:05:62:A1:9D:27:00:70:9A:7F:CF:91:BD:4B:2C:BB:2F:17:C6:71:5D:AE:FA:5B:EB:3D:57"
+      ]
+    }
   }
 ]
